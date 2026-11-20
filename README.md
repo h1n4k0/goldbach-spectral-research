@@ -1,6 +1,6 @@
 # 李–刘 Goldbach 谱假设：独立研究笔记
 
-> **研究导航：** [第六轮 · 当前进展及待解问题](ROUND6.md) · [第五轮](ROUND5.md) · [第四轮及数值复算](ROUND4.md) · [第三轮](ROUND3.md) · [第二轮](ROUND2.md) · [第一轮原始快照](https://github.com/h1n4k0/goldbach-spectral-research/blob/9cb40f4c80f0fa298dea3e02d82ae4f2a7ae9c06/README.md)
+> **研究导航：** [第七轮 · 当前进展及待解问题](ROUND7.md) · [第六轮](ROUND6.md) · [第五轮](ROUND5.md) · [第四轮及数值复算](ROUND4.md) · [第三轮](ROUND3.md) · [第二轮](ROUND2.md) · [第一轮原始快照](https://github.com/h1n4k0/goldbach-spectral-research/blob/9cb40f4c80f0fa298dea3e02d82ae4f2a7ae9c06/README.md)
 >
 > **S 和 R 均未证明，也未否证。** 下方保留原第一轮记录。
 
