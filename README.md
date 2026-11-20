@@ -1,5 +1,9 @@
 # 李–刘 Goldbach 谱假设：独立研究笔记
 
+> **研究导航：** [第六轮 · 当前进展及待解问题](ROUND6.md) · [第五轮](ROUND5.md) · [第四轮及数值复算](ROUND4.md) · [第三轮](ROUND3.md) · [第二轮](ROUND2.md) · [第一轮原始快照](https://github.com/h1n4k0/goldbach-spectral-research/blob/9cb40f4c80f0fa298dea3e02d82ae4f2a7ae9c06/README.md)
+>
+> **S 和 R 均未证明，也未否证。** 下方保留原第一轮记录。
+
 **第一轮快照 · 2026-11-20。S 和 R 均未证明，也未被否证。** 下列是对真实算子或其可明确定义的压缩、算术矩阵元所作的推导；“交叉核对”只指本笔记内部的独立重算，不是期刊同行评议，也不作优先权声明。
 
 **起点。** 李嘉旻、刘建亚的[山东大学发布页](https://mrc.sdu.edu.cn/info/1018/2193.htm)与[作者的 63 页论文](https://mrc.sdu.edu.cn/__local/6/14/8E/28753731EE31D7635BAF60732C2_0C644604_2CE958.pdf)。设 $L=\log N$，$S_N=\mathfrak S(N)$ 为奇异级数，$\delta_N=\sqrt{S_N/N}\,L^{3/2}$，$\eta_N=h(N)^2L^3/(NS_N)$。固定原带宽 $\alpha_N=1/L,\beta=1/8$，在满足 $\mathrm{GRH}(N)$ 的每个充分大偶数上，必须控制的是同一真实自伴算子 $T_N$ 的**最大绝对特征值**：
