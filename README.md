@@ -1,6 +1,6 @@
 # 李–刘 Goldbach 谱假设：独立研究笔记
 
-> **研究导航：** [第十二轮 · 增长前缀及例外数](ROUND12.md) · [第十一轮](ROUND11.md) · [第十轮](ROUND10.md) · [第九轮求积停机记录](spectral-round9.md) · [第八轮](ROUND8.md) · [第七轮](ROUND7.md) · [第六轮](ROUND6.md) · [第五轮](ROUND5.md) · [第四轮及数值复算](ROUND4.md) · [第三轮](ROUND3.md) · [第二轮](ROUND2.md) · [第一轮原始快照](https://github.com/h1n4k0/goldbach-spectral-research/blob/9cb40f4c80f0fa298dea3e02d82ae4f2a7ae9c06/README.md)
+> **研究导航：** [第十三轮 · 固定块的更强均方界](ROUND13.md) · [第十二轮](ROUND12.md) · [第十一轮](ROUND11.md) · [第十轮](ROUND10.md) · [第九轮求积停机记录](spectral-round9.md) · [第八轮](ROUND8.md) · [第七轮](ROUND7.md) · [第六轮](ROUND6.md) · [第五轮](ROUND5.md) · [第四轮及数值复算](ROUND4.md) · [第三轮](ROUND3.md) · [第二轮](ROUND2.md) · [第一轮原始快照](https://github.com/h1n4k0/goldbach-spectral-research/blob/9cb40f4c80f0fa298dea3e02d82ae4f2a7ae9c06/README.md)
 >
 > **S 和 R 均未证明，也未否证。** 下方保留原第一轮记录。
 
