@@ -1,5 +1,14 @@
 # 李–刘谱路线：R 的条件性反例与仍开放的 S
 
+## 2026-11-22：Dirichlet GRH 的外部形式核验
+
+[Lean 与 Mathlib 社区的联合声明](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)认证的是经典黎曼猜想。[Andrew Sutherland 的独立核验记录](https://math.mit.edu/~drew/grh/#what-was-verified)（11 月 22 日 04:35 UTC）进一步列出了 Alpöge 证明中的 Dirichlet 结论：第 3–5 项涵盖每个正整数模数、原始与非原始 Dirichlet 特征。记录显示，两个独立内核接受了完整导出，两套声明比较工具确认了全部五项命题；当时独立的 Lean 原始导出重放仍在运行。这些核验不涵盖一般的 Hecke、Dedekind 或自守 $L$ 函数。
+
+- **原论文与精确 R。** 李–刘的局部 $\mathrm{GRH}(N)$ 要求导子整除 $N$ 的原始 Dirichlet $L$ 函数满足黎曼猜想，包括导子 1 的 $\zeta$；这在已核验的范围内。采用 Alpöge 的 Dirichlet GRH 定理作外部输入，再结合 [Yilin Liu 的 v1 预印本](https://hexagonmath.org/2611.00788v1) 的反证，得到精确 R 不成立。本库没有用 Lean 重新检查该反证。
+- **第 46 轮。** [斜截近平衡 Type II 区的证明](weak-s-type-ii-slanted-near-balanced-slab.md)只用导子至多 $N^{0.05}$ 的原始非主特征的 GRH；该输入同样被覆盖。这不改变原估计只针对 $N=2^j$ 和指定求和区域的范围，也不消除其他余项。其他文稿中使用的全局或局部 Dirichlet GRH 及辅助 Dirichlet 模数亦属于该形式定理的范围。
+
+[Clay 的千禧年问题页面](https://www.claymath.org/millennium/riemann-hypothesis/)在核对时仍标为 “Unsolved”；奖金认定与上述形式核验是不同的程序。这里核对的是公开记录与项目所需假设的对应关系，没有重新运行证明归档。下文保留原来的条件性表述和历史记录。**弱 S 未解决，二元哥德巴赫猜想也未由这些结果推出。**
+
 更新：2026-11-21。这里的数学核对是独立复算，不是期刊同行评议。
 
 ## R 的状态
